@@ -1,0 +1,13 @@
+<order date="2024-02-01">
+    <shop>название магазина</shop>
+    <products>
+        <product>
+            <name>product</name>
+            <price>1234</price>
+        </product>
+        <product>
+            <name>technik</name>
+            <price>1111</price>
+        </product>
+    </products>
+</order>

@@ -1,0 +1,16 @@
+{
+  "order": {
+    "date": "2024-02-01",
+    "shop": "название магазина",
+    "products": [
+      {
+        "name": "product",
+        "price": 1234
+      },
+      {
+        "name": "technik",
+        "price": 1111
+      }
+    ]
+  }
+}
